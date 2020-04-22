@@ -1,0 +1,49 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "UUsi muistiinpano",
+      "id": 3
+    },
+    {
+      "content": "sas",
+      "id": 4
+    },
+    {
+      "content": "sas",
+      "id": 5
+    },
+    {
+      "content": "Saska Rauhala",
+      "id": 6
+    },
+    {
+      "content": "Saska Rauhala",
+      "id": 7
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "Saska Rauhala",
+      "number": "04068927474",
+      "id": 2
+    },
+    {
+      "name": "Marko Rauhala",
+      "number": "0407822722",
+      "id": 3
+    }
+  ]
+}
